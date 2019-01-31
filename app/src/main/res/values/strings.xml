@@ -2,4 +2,7 @@
     <string name="app_name">The Movie DB Retrofit</string>
 
     <string name="api_key">d72e964a8778ea63c83ee06adaf4c1f7</string>
+    <string name="title">Title</string>
+    <string name="rating">rating</string>
+    <string name="title_activity_detail_movie">DetailMovieActivity</string>
 </resources>
