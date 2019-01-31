@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">The Movie DB Retrofit</string>
+
+    <string name="api_key">d72e964a8778ea63c83ee06adaf4c1f7</string>
 </resources>
