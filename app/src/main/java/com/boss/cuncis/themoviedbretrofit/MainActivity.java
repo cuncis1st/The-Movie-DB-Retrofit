@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onRefresh() {
                 getPopularMovies();
+                swipeRefreshLayout.setRefreshing(false);
             }
         });
     }
